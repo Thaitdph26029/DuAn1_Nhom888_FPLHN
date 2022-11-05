@@ -1,13 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>_3.PresentationLayers</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\2.GUI\2.GUI.csproj" />
-  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Utilities\" />
