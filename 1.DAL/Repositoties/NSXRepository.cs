@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1.DAL.IRepositoties
+namespace _1.DAL.Repositoties
 {
-    internal class ITestRepository
+    public class NSXRepository
     {
     }
 }
