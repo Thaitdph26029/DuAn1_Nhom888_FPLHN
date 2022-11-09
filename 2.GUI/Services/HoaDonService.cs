@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace _2.GUI.Services
 {
     public class IHoaDonService
-    {
+    {      
+        //tftyfyugyugyu
     }
 }
